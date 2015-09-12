@@ -1,0 +1,25 @@
+*lab-notebook.txt* A short multi line description of your plugin
+
+===============================================================================
+CONTENTS                                                         *lab-notebook*
+
+    1. Intro ............................................. |lab-notebook-intro|
+    2. Requirements ............................... |lab-notebook-requirements|
+    3. Usage ............................................. |lab-notebook-usage|
+    4. Licence ......................................... |lab-notebook-licence|
+===============================================================================
+1. Intro                                                   *lab-notebook-intro*
+
+Overview of plugin
+
+2. Requirements                                     *lab-notebook-requirements*
+
+What additional programs are required to run the plugin
+
+3. Usage                                                   *lab-notebook-usage*
+
+How to use the plugin. What functions does it give the user?
+
+4. Licence                                               *lab-notebook-licence*
+
+This is open source make sure to include a licence
